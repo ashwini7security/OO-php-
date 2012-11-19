@@ -1,4 +1,12 @@
 OO-php-
 =======
 
-This repository contain OO php programs . 
+This repository contain OO php programs .
+
+These program are usefull for beginners of OO php. 
+
+User of this repository free to modify these programs and commit.
+
+
+
+ 
